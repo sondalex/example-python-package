@@ -2,7 +2,9 @@
 name = "example-python-project"
 version = "0.1.0"
 description = "Example of python package with pyproject.toml layout."
-dependencies = []
+dependencies = [
+  "Sphinx"
+]
 
 [build-system]
 requires = ["setuptools"]
