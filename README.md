@@ -9,7 +9,7 @@ Example of python package with `pyproject.toml` layout.
 git clone https://github.com/sondalex/example-python-package.git && cd example-python-package/ && pip install .
 ```
 
-```bash
+```python
 from example_python_package import hello_world
 
 
