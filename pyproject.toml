@@ -1,0 +1,10 @@
+[project]
+name = "example-python-project"
+version = "0.1.0"
+description = "Example of python package with pyproject.toml layout."
+dependencies = []
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
